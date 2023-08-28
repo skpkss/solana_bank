@@ -1,4 +1,5 @@
-# Functionality
+# Solana React Dapp
+ ## Functionality
 Account
 "Create a new Solana account" button’s functionality is complete
 New keypair is generated
